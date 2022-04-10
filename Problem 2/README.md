@@ -22,6 +22,6 @@ Implemented from scratch a sampling method to draw samples from a multivariate N
 
 ## *References: -*
 * [Multivariate Normal Distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
-* [UNIFORM in jax.random](https://jax.readthedocs.io/en/latest/_autosummary/jax.random.uniform.html)
+* [Uniform Distribution in jax.random](https://jax.readthedocs.io/en/latest/_autosummary/jax.random.uniform.html)
 * [JAX's NUMPY](https://jax.readthedocs.io/en/latest/jax.numpy.html)
 * [Spatial Distance in SciPy](https://docs.scipy.org/doc/scipy/reference/spatial.distance.html)
