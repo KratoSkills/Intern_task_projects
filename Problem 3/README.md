@@ -15,10 +15,10 @@
 
 ## *Architecture: -*
 * ![Neural Network](nn.svg)
-* Input Neuron = 784
-* Hidden Layers 1 = 24
-* Hidden Layer 2 = 24
-* Output Layer = 10
+* Input Neurons             = 784
+* 1st Hidden Layers Neurons = 24
+* 1st Hidden Layers Neurons = 24
+* Output Layer Neurons      = 10
 
 ## *Classification Matrices: -*
 * **[Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)** - A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known.
