@@ -21,13 +21,12 @@
 * Output Layer = 10
 
 ## *Classification Matrices: -*
-* **[Confusion Matrix](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)** - A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known.
-* **[Classification report](https://thecleverprogrammer.com/2021/07/07/classification-report-in-machine-learning/)** - A classification report is a performance evaluation metric in machine learning. It is used to show the precision, recall, F1 Score, and support of your trained classification model.
+* **[Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html){:target="_blank"}** - A confusion matrix is a table that is often used to describe the performance of a classification model (or "classifier") on a set of test data for which the true values are known.
+* **[Classification report](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html){:target="_blank"}** - A classification report is a performance evaluation metric in machine learning. It is used to show the precision, recall, F1 Score, and support of your trained classification model.
 
 ## *References: -*
 *  [MNIST](https://www.tensorflow.org/datasets/catalog/mnist)
-*  [Classification Matrix](https://www.geeksforgeeks.org/compute-classification-report-and-confusion-matrix-in-python/)
+*  [Classification Matrix and Confusion Matrix](https://www.geeksforgeeks.org/compute-classification-report-and-confusion-matrix-in-python/)
 *  [Neural Networks](https://www.deeplearning.ai/program/deep-learning-specialization/)
 *  [tenserflow.keras](https://www.tensorflow.org/api_docs/python/tf/keras)
-*  [SciKit-Learn's Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
-*  [SciKit-Learn's Classification Report](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
+*  
