@@ -18,7 +18,7 @@ Implemented from scratch a sampling method to draw samples from a multivariate N
 ## *Steps in Solution: -*
 1. Randomly create Mean and Covariance Matrix.
 2. Implementing Sampling Function.
-3. Check whether generated mean and given mean are equivalent or not.
+3. Check whether generated (Mean, Covariance) and given (Mean, Covariance) are equivalent or not.
 
 ## *References: -*
 * [Multivariate Normal Distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
