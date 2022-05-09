@@ -5,7 +5,3 @@ This is ***Prof. Nipun Batra's*** Intern Task Project for SRIP IITGN 2022 - Mach
 *I've Implemented Solutions to these problems from the given set of problems: -*
 * [Multivariate Normal (MVN) distribution using JAX](https://github.com/rohit-khoiwal-30/Intern_task_projects/tree/master/Problem%202)
 * [Neural Network using JAX](https://github.com/rohit-khoiwal-30/Intern_task_projects/tree/master/Problem%203)
-
-| some | ds |
-| -    |  - |
-| :heavy_check_mark: | |
